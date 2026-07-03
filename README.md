@@ -69,5 +69,6 @@ The core architecture is strictly modularized into decoupled, single-responsibil
 ├── prompt_rules.md         # Markdown ledger governing internal LLM behavioral criteria
 ├── pyrightconfig.json      # Static type-checking and code-quality profiles
 ├── report_generator.py     # Production-grade ReportLab PDF compilation module
+├── requirements.txt        # Production server environment dependency ledger
 ├── scraper.py              # OSINT parser and alternative web-ingestion workflows
 └── ui_components.py        # Bloomberg-themed presentation layers and widget setups
